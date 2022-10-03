@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Jigglydude11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jigglydude11/Jigglydude11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in playing games an stuff i mean im a simple man
+- 🌱 I’m currently learning game making
+- 💞️ I’m looking to collaborate on not much actually i prefer to work on stuff alone but i will ask for help when needed
+- 📫 How to reach me you can contact me through my email Jigglymc36@gmail.com
